@@ -21,7 +21,7 @@ The HBNB console in interactive mode prints a prompt and waits for user input yo
 `
 (hbnb)(command)
 `
-or in a non interactive mode tis way:
+<br> or in a non interactive mode tis way:
 
 `echo "command" | ./console.py`
 
