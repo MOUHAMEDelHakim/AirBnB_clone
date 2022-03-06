@@ -1,4 +1,3 @@
-
 <h1 align="center">AirBnB clone</h1>
 
 ## What is it? : 
