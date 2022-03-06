@@ -21,7 +21,14 @@ The HBNB console in interactive mode prints a prompt and waits for user input yo
 `
 (hbnb)(command)
 `
+<p align="center">
+  <img src="https://github.com/MOUHAMEDelHakim/AirBnB_clone/blob/master/things%20for%20readme%20file/Capture%20d’écran%202022-03-06%20201919.png" alt="yo">
+</p>
+
 <br> or in a non interactive mode tis way:
 
 `echo "command" | ./console.py`
 
+<p align="center">
+  <img src="https://github.com/MOUHAMEDelHakim/AirBnB_clone/blob/master/things%20for%20readme%20file/non%20int.png" alt="yo">
+</p>
