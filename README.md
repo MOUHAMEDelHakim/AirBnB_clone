@@ -48,8 +48,8 @@ COMMAND | DESCRIPTION
 
 ## Uses of the console
 <h3><b>. Create a new object(ex: a new User or a new Place)<br>
-    . Retrieve an object from a file, a database etc…<br>
-    . Do operations on objects(count, compute stats, etc…)<br>
-    . Update attributes of an object<br>
- . Destroy an object<br></b>
+    - Retrieve an object from a file, a database etc…<br>
+    - Do operations on objects(count, compute stats, etc…)<br>
+    - Update attributes of an object<br>
+ - Destroy an object<br></b>
 </h3>
