@@ -25,10 +25,23 @@ The HBNB console in interactive mode prints a prompt and waits for user input yo
   <img src="https://github.com/MOUHAMEDelHakim/AirBnB_clone/blob/master/things%20for%20readme%20file/Capture%20d’écran%202022-03-06%20201919.png" alt="yo">
 </p>
 
-<br> or in a non interactive mode tis way:
+<br> or in a non interactive mode this way:
 
 `echo "command" | ./console.py`
 
 <p align="center">
   <img src="https://github.com/MOUHAMEDelHakim/AirBnB_clone/blob/master/things%20for%20readme%20file/non%20int.png" alt="yo">
 </p>
+
+## Command list for the console
+
+COMMAND | DESCRIPTION
+----|----
+```(hbnb) quit``` | Quits console
+```(hbnb) EOF``` | Quits console via EOF
+```(hbnb) help <command>``` | Display help for <command>
+```(hbnb) create <class>``` | Create object and print id
+```(hbnb) show <class> <id>``` | Show information about an object
+```(hbnb) destroy <class> <id>``` | Destroy object
+```(hbnb) all <class>``` | Show all instances of a class
+```(hbnb) update <class> <id> <attribute name> <attribute value>``` | Creates or updates the attribute of a class
