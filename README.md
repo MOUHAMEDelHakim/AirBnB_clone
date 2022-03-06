@@ -47,9 +47,9 @@ COMMAND | DESCRIPTION
 ```(hbnb) update <class> <id> <attribute name> <attribute value>``` | Creates or updates the attribute of a class
 
 ## Uses of the console
-<h3>Create a new object(ex: a new User or a new Place)<br>
+<h3><b>Create a new object(ex: a new User or a new Place)<br>
     Retrieve an object from a file, a database etc…<br>
     Do operations on objects(count, compute stats, etc…)<br>
     Update attributes of an object<br>
-    Destroy an object<br>
+  Destroy an object<br></b>
 </h3>
