@@ -33,6 +33,14 @@ The HBNB console in interactive mode prints a prompt and waits for user input yo
   <img src="https://github.com/MOUHAMEDelHakim/AirBnB_clone/blob/master/things%20for%20readme%20file/non%20int.png" alt="yo">
 </p>
 
+## Uses of the console
+<h3><b>. Create a new object(ex: a new User or a new Place)<br>
+    - Retrieve an object from a file, a database etc…<br>
+    - Do operations on objects(count, compute stats, etc…)<br>
+    - Update attributes of an object<br>
+ - Destroy an object<br></b>
+</h3>
+
 ## Command list for the console
 
 COMMAND | DESCRIPTION
@@ -45,11 +53,3 @@ COMMAND | DESCRIPTION
 ```(hbnb) destroy <class> <id>``` | Destroy object
 ```(hbnb) all <class>``` | Show all instances of a class
 ```(hbnb) update <class> <id> <attribute name> <attribute value>``` | Creates or updates the attribute of a class
-
-## Uses of the console
-<h3><b>. Create a new object(ex: a new User or a new Place)<br>
-    - Retrieve an object from a file, a database etc…<br>
-    - Do operations on objects(count, compute stats, etc…)<br>
-    - Update attributes of an object<br>
- - Destroy an object<br></b>
-</h3>
