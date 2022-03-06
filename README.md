@@ -1,7 +1,7 @@
 <h1 align="center">AirBnB clone</h1>
 
 <p align="center">
-  <img width="200" src="https://github.com/MOUHAMEDelHakim/AirBnB_clone/blob/master/things%20for%20readme%20file/stolen.png" alt="Material Bread logo">
+  <img src="https://github.com/MOUHAMEDelHakim/AirBnB_clone/blob/master/things%20for%20readme%20file/stolen.png" alt="Material Bread logo">
 </p>
 
 ## What is it? : 
