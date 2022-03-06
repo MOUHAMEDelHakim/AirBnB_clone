@@ -13,4 +13,15 @@ AirBnB clone is a two people project released by Holberton School for it's stude
 </p>
 
 ## How to use it? :
-The HBNB console in interactive mode prints a prompt and waits for user input 
+The HBNB console in interactive mode prints a prompt and waits for user input you just need to execute the console.py file
+
+`
+./console.py
+`
+`
+(hbnb)(command)
+`
+or in a non interactive mode tis way:
+
+`echo "command" | ./console.py`
+
